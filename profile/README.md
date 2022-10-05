@@ -4,7 +4,7 @@
 
 ## About
 
-## Usage
+## How to use the material
 
 ## Contribute
 
