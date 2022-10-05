@@ -1,6 +1,5 @@
-# Neural Data Science. 
+# Neural Data Science
 **Open learning for systems neuroscience**
----
 
 ## About
 
